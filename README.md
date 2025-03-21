@@ -1,6 +1,6 @@
 # LeetCode
 
-This repository contains my solutions to LeetCode problems.
+This repository contains my solutions to LeetCode problems from Leetcode75
 
 Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 
