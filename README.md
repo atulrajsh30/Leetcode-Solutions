@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +34,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
