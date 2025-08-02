@@ -18,10 +18,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0004-median-of-two-sorted-arrays](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
