@@ -35,6 +35,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
