@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0033-search-in-rotated-sorted-array](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,8 +53,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0036-valid-sudoku](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
