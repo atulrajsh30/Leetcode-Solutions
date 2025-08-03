@@ -76,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0168-excel-sheet-column-title](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
