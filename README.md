@@ -37,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0014-longest-common-prefix](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0205-isomorphic-strings](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
