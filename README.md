@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0016-3sum-closest](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
@@ -70,6 +71,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0048-rotate-image) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0007-reverse-integer](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 ## Simulation
