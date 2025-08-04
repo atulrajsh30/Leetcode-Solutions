@@ -28,6 +28,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0048-rotate-image](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 ## Simulation
