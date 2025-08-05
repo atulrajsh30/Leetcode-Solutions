@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0033-search-in-rotated-sorted-array](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
@@ -92,6 +93,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0168-excel-sheet-column-title](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0204-count-primes) |
 ## Simulation
 |  |
 | ------- |
@@ -105,4 +107,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0067-add-binary) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
