@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0016-3sum-closest](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -89,6 +91,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0069-sqrtx](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0202-happy-number) |
 ## Simulation
 |  |
 | ------- |
