@@ -101,6 +101,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0231-power-of-two](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -112,12 +113,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0050-powx-n](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
 | ------- |
