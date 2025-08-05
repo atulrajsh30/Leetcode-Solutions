@@ -94,6 +94,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0171-excel-sheet-column-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -103,10 +104,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
 | ------- |
