@@ -95,11 +95,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0202-happy-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -118,4 +120,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
