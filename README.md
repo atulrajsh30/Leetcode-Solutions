@@ -49,6 +49,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0242-valid-anagram](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 ## Trie
 |  |
 | ------- |
