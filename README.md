@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0434-number-of-segments-in-a-string](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0551-student-attendance-record-i) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Trie
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0258-add-digits](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/atulrajsh30/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Simulation
 |  |
 | ------- |
